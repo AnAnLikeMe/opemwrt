@@ -15,7 +15,7 @@
 
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
-sed -i '$a src-git jell https://github.com/AnAnLikeMe/jell' feeds.conf.default
+sed -i '$a src-git jell https://github.com/kenzok8/jell' feeds.conf.default
 
 # Define My Package
 #git clone https://github.com/vernesong/OpenClash package/molun/luci-app-openclash
